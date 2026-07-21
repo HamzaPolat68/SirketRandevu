@@ -1,7 +1,6 @@
 # 📅 Şirket Randevu Oluşturma Sistemi
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+
 
 Müşterilerin şirket hizmetleri için kolayca, hızlıca ve pratik bir şekilde online randevu alabilmelerini sağlayan kullanıcı odaklı bir **Randevu Oluşturma Sistemi**.
 
