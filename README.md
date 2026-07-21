@@ -28,7 +28,9 @@ Müşterilerin şirket hizmetleri için kolayca, hızlıca ve pratik bir şekild
    git clone [https://github.com/kullanici-adi/proje-adi.git](https://github.com/kullanici-adi/proje-adi.git)
    cd proje-adi
 2. **Bağımlılıkları yükleyin:**
+   ```bash
    npm install  # ya da flutter pub get
 
-3. **Uygulamayı çalıştırın:** 
+3. **Uygulamayı çalıştırın:**
+   ```bash
    npm start  # ya da flutter run
