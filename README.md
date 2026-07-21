@@ -27,8 +27,8 @@ Müşterilerin şirket hizmetleri için kolayca, hızlıca ve pratik bir şekild
    ```bash
    git clone [https://github.com/kullanici-adi/proje-adi.git](https://github.com/kullanici-adi/proje-adi.git)
    cd proje-adi
-   Bağımlılıkları yükleyin:
+2. **Bağımlılıkları yükleyin:**
    npm install  # ya da flutter pub get
 
-   Uygulamayı çalıştırın: 
+3. **Uygulamayı çalıştırın:** 
    npm start  # ya da flutter run
