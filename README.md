@@ -15,7 +15,7 @@ Müşterilerin şirket hizmetleri için kolayca, hızlıca ve pratik bir şekild
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Frontend:** React / HTML5, JavaScript
-* **Backend:** Node.js /n
+* **Backend:** Node.js 
 * **Veritabanı:** MongoDB
 * **Sürüm Kontrol:** Git & GitHub
 
