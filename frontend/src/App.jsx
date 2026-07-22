@@ -13,7 +13,7 @@ import {
   Stamp
 } from './Icons.jsx';
 
-const API_URL = 'http://localhost:5000/api/appointments';
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
 
 const COLORS = {
   charcoal: '#1D2422',
